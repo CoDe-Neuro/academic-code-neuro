@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Computational Developmental Neuroscience Lab
+title: Dafnis Batallé
 
 # Username (this should match the folder name)
 authors:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
+#bio: Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
 
-interests:
-- Brain Connectivity
-- Graph Theory
-- Data Mining
+#interests:
+#- Brain Connectivity
+#- Graph Theory
+#- Data Mining
 
 #education:
 # courses:
@@ -67,7 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Additional information about our lab...
+Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
