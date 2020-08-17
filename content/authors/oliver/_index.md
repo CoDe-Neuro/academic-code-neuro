@@ -21,8 +21,8 @@ organizations:
 bio: My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020, which focuses on the relationship between socio-economic status, brain biology and early life outcomes. 
 
 interests: 
--My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist
--My PhD focuses on the relationship between socio-economic status, brain biology and early life outcomes. 
+- My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist
+- My PhD focuses on the relationship between socio-economic status, brain biology and early life outcomes. 
 
 #education:
 # courses:
