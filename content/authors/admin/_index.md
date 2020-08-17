@@ -75,5 +75,5 @@ We work alongside the [Forensic and Neurodevelopmental Science (FANS) department
 
 We are grateful to the Wellcome Trust for funding a [Seed Awards in Science](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22) project.
 
-{{< figure library="true" src="logo_Wellcome200.png">}} 
+{{< figure library="true" src="logo_Wellcome200white.png">}} 
 
