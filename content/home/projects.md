@@ -81,3 +81,4 @@ Functional MRI (fMRI) tells us how different areas of the brain function togethe
 
 This project is funded by a [Wellcome Trust](http://wellcome.ac.uk/) [_Seed Award in Science_](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22).
 
+**PhD projects available as part of the [MRC DTP](https://kcl-mrcdtp.com) (Theme 2) and the [EPSRC CDT](https://www.imagingcdt.com/)**

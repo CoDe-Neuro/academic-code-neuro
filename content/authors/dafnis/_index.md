@@ -21,9 +21,7 @@ organizations:
 bio: Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
 
 #interests:
-#- Brain Connectivity
-#- Graph Theory
-#- Data Mining
+- Both an engineer (MEng Telecommunications) and a neuroscientist (MSc & PhD) by training, I use mathematical tools and computational models to study the emergence of brain organization during early development. Since 2018 I am a Lecturer in Neurodevelopmental Science at the Institute of Psychiatry, Psychology & Neuroscience, KCL.
 
 #education:
 # courses:
@@ -53,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=ZJYE5x8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/code-neuro
+  link: https://github.com/dafnis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

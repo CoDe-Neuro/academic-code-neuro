@@ -63,16 +63,16 @@ user_groups:
 - admin
 ---
 
-{{< figure library="true" src="all_logos2.jpg">}}
+{{< figure library="true" src="all_logos3.png">}}
 
 Welcome to the **Computational Developmental Neuroscience Lab (CoDe-Neuro)** 
 
 Our research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, graph theory, whole-brain computational models, machine learning and other signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
 
 We work alongside the [Forensic and Neurodevelopmental Science (FANS) department](https://www.kcl.ac.uk/academic-psychiatry/about/departments/forensic-neurodevelopmental-sciences) at the [Institute of Psychiatry, Psychology & Neuroscience](https://www.kcl.ac.uk/ioppn) and the [Centre for the Developing Brain (CDB)](https://www.developingbrain.co.uk/about-the-centre-for-the-developing-brain/) at the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) and collaborate with the [developing Human Connectome](http://www.developingconnectome.org) and the [AIMS-2-TRIALS](https://www.aims-2-trials.eu) projects: 
-{{< figure library="true" src="dhcp_eu_aims2.jpg">}}
+{{< figure library="true" src="dhcp_eu_aims2.png">}}
 
 We are grateful to the Wellcome Trust for funding a [Seed Awards in Science](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22) project.
 
-{{< figure src="static/media/logo_Wellcome.png">}} 
+{{< figure library="true" src="logo_Wellcome200.png">}} 
 
