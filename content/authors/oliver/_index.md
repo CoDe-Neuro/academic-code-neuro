@@ -4,7 +4,7 @@ title: Dr. Oliver Gale-Grant
 
 # Username (this should match the folder name)
 authors:
--oliver
+- oliver
 
 # Is this the primary user of the site?
 superuser: false
