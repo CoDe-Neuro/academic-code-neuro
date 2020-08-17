@@ -9,7 +9,7 @@ bio: "I joined King’s College London in 2018 as part of the Medical Research
   at The University of Glasgow.  "
 social:
   - link: https://twitter.com/s_fennmoltu
-    icon_pack: far
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: King's College London
