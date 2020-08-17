@@ -51,12 +51,12 @@ email_form = 0
 +++
 
 Find us at the IoPPN:
-Main IoPPN Building, 1st Floor FANS department
-16, De Crespigny Park, SE5 8AF, London, UK
+
+- Main IoPPN Building, 1st Floor FANS department, 16, De Crespigny Park, SE5 8AF, London, UK
 
 And at Centre for the Developing Brain:
-1st Floor, South WIng, Perinatal Imaging Department
-St Thomas' Hospital, SE1 7EH, London, UK
+
+- 1st Floor, South WIng, Perinatal Imaging Department, St Thomas' Hospital, SE1 7EH, London, UK
 
 
 
