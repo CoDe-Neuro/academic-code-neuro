@@ -20,10 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020, which focuses on the relationship between socio-economic status, brain biology and early life outcomes. 
 
-#interests:
-#- Brain Connectivity
-#- Graph Theory
-#- Data Mining
+interests:
+My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020, which focuses on the relationship between socio-economic status, brain biology and early life outcomes. 
 
 #education:
 # courses:

@@ -20,10 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.
 
-#interests:
-#- Brain Connectivity
-#- Graph Theory
-#- Data Mining
+interests:
+I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.
 
 #education:
 # courses:
