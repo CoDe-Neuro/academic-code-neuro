@@ -70,7 +70,7 @@ We work alongside the Forensic and Neurodevelopmental Science (FANS) department 
 We are grateful for funding from the [Wellcome Trust](http://wellcome.ac.uk/)
 
 We are proud collaborators of the [developing Human Connectome](http://www.developingconnectome.org) and the [AIMS-2-TRIALS](https://www.aims-2-trials.eu) projects.
-{{< figure library="logo_dhcp.png">}} {{< figure library="logo_dhcp2.jpg">}} {{< figure library="logo_aims-2-trials-80.png">}}
+{{< figure library="true" src="logo_dhcp.png">}} {{< figure library="true" src="logo_dhcp2.jpg">}} {{< figure library="true" src=logo_aims-2-trials-80.png">}}
 
 
 
