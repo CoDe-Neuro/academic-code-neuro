@@ -36,15 +36,15 @@ email_form = 0
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "Black"
+  #color = "Black"
   
   # Background gradient.
    #gradient_start = "DeepSkyBlue"
    #gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "tracto_zoom.png"  # Name of image in `static/media/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true  
