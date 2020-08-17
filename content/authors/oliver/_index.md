@@ -65,6 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Team
 ---
 My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020, which focuses on the relationship between socio-economic status, brain biology and early life outcomes.

@@ -68,6 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Team
 ---
 I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.

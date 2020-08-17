@@ -11,7 +11,7 @@ interests:
 - I am particularly interested in identifying predictive biomarkers of mental health outcomes and trajectories using neuroimaging and machine learning approaches.
 superuser: false
 user_groups:
-  - Researchers
+  - Team
 ---
 
 

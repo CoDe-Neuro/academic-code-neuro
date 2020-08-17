@@ -15,6 +15,6 @@ organizations:
     url: https://www.kcl.ac.uk/people/sunniva-fenn-moltu
 superuser: false
 user_groups:
-  - Researchers
+  - Team
 ---
 I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focuses on functional brain network topology and dynamics in typical and atypical development.
