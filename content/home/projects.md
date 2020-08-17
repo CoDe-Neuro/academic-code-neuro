@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -74,4 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Dynamic functional connectivity in neonates during active and quiet sleep
+
 
