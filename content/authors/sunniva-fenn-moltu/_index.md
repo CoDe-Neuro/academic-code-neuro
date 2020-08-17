@@ -1,7 +1,7 @@
 ---
 title: Sunniva Fenn-Moltu
 role: PhD Student
-avatar_filename: avatar
+avatar_filename: kvhbqfzp_400x400.jpg
 bio: "I joined King’s College London in 2018 as part of the Medical Research
   Council Doctoral Training Partnership in Biomedical Sciences. My PhD focuses
   on perinatal brain maturation in babies at risk of developing Autism Spectrum
