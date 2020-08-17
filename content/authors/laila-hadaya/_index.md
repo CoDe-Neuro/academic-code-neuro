@@ -6,7 +6,7 @@ bio: I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am
   particularly interested in identifying predictive biomarkers of mental health
   outcomes and trajectories using neuroimaging and machine learning approaches.
   
-interests:I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am
+interests: I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am
   particularly interested in identifying predictive biomarkers of mental health
   outcomes and trajectories using neuroimaging and machine learning approaches.
 superuser: false
