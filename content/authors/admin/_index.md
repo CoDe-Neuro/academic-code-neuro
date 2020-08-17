@@ -63,4 +63,14 @@ user_groups:
 - admin
 ---
 
+Welcome to the **Computational Developmental Neuroscience Lab (CoDe-Neuro)** 
 Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.
+We work alongside the Forensic and Neurodevelopmental Science (FANS) department at the IoPPN.
+
+We are grateful for funding from the [Wellcome Trust](http://wellcome.ac.uk/)
+
+We are proud collaborators of the [developing Human Connectome](http://www.developingconnectome.org) and the [AIMS-2-TRIALS](https://www.aims-2-trials.eu) projects.
+{{< figure library="logo_dhcp.png">}} {{< figure library="logo_dhcp2.jpg">}} {{< figure library="logo_aims-2-trials-80.png">}}
+
+
+
