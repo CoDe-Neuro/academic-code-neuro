@@ -68,3 +68,4 @@ email: ""
 user_groups:
 - Researchers
 ---
+My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020, which focuses on the relationship between socio-economic status, brain biology and early life outcomes.
