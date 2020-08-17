@@ -61,8 +61,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "RSNs.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -79,6 +79,6 @@ subtitle = ""
 
 Functional MRI (fMRI) tells us how different areas of the brain function together. The brain moves through different states, and this dynamic functional connectivity (FC) is key to understanding how the brain works in health, and in neurodevelopmental conditions like autism. However, dynamic FC has only ever been examined in adults. Because how the brain matures in early childhood impacts upon later development; and because neurodevelopmental conditions start early in life; we must look at infants. We aim to identify active and quiet sleep states in neonates using breathing patterns and map dynamic FC during sleep states in more than 600 fMRI datasets already acquired from sleeping newborns. We can then compare dynamic FC from a test sample of babies who are at-risk of developing conditions, like autism, against this reference. If we are successful with this pilot, future studies will examine i) what alters the maturation of dFC (informing prevention); and ii) whether newborn dynamic FC predicts childhood outcomes (informing intervention).
 
-We are grateful to the [Wellcome Trust](https://wellcome.ac.uk) for funding this project as a _Seed Awards in Science_.
-{{< figure library="true" src="logo_Wellcome.png">}}
+We are grateful to the [Wellcome Trust](http://wellcome.ac.uk/) for funding this project as a [Seed Awards in Science](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22).
+{{< figure library="true" src="logo_Wellcome.png">}} 
 
