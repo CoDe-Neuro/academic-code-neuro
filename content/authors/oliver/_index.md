@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/olivergalegrant
 - icon: google-scholar
   icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=7akO-hIAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=7akO-hIAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/lucasfr
