@@ -52,6 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dafnis
+- icon: user
+  icon_pack: fas
+  link: https://kclpure.kcl.ac.uk/portal/dafnis.batalle.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,3 +69,4 @@ email: ""
 user_groups:
 - Team
 ---
+Our lab research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children at risk of neurodevelopmental disorders.

@@ -5,9 +5,18 @@ avatar_filename: laila-hadaya.x698efc45.png
 bio: I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am
   particularly interested in identifying predictive biomarkers of mental health
   outcomes and trajectories using neuroimaging and machine learning approaches.
-  
-interests:
+  interests:
 - I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am particularly interested in identifying predictive biomarkers of mental health outcomes and trajectories using neuroimaging and machine learning approaches.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:laila.hadaya@kcl.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  - icon: user
+    icon_pack: fas
+    link: https://www.kcl.ac.uk/people/laila-hadaya
+organizations:
+  - name: King's College London
+    url: https://www.kcl.ac.uk/people/laila-hadaya
 superuser: false
 user_groups:
   - Team
