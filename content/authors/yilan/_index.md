@@ -10,10 +10,10 @@ interests:
 superuser: false
 user_groups:
   - Team
----
 
-PhD Student at the Metrics Lab and CoDe-Neuro Lab:
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:yilan.dong@kcl.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 
-**Research Interests**
-
-* Development of machine learning applications to uncover the early origins of neurodevelopmental disorders
+  ---
