@@ -14,5 +14,5 @@ organizations:
     url: https://kclpure.kcl.ac.uk/portal/en/persons/yilan-dong(ba2edde9-27ea-4377-be9c-72070b663e6f).html
 superuser: false
 user_groups:
-  - Team
+  - Alumni
 ---

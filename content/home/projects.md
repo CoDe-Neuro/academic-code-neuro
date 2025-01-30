@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-*[Dynamic functional connectivity in neonates during active and quiet sleep](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22)
+* [Dynamic functional connectivity in neonates during active and quiet sleep](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22)
 
 Functional MRI (fMRI) tells us how different areas of the brain function together. The brain moves through different states, and this dynamic functional connectivity (FC) is key to understanding how the brain works in health, and in neurodevelopmental conditions like autism. However, dynamic FC has only ever been examined in adults. Because how the brain matures in early childhood impacts upon later development; and because neurodevelopmental conditions start early in life; we must look at infants. We aim to identify active and quiet sleep states in neonates using breathing patterns and map dynamic FC during sleep states in more than 600 fMRI datasets already acquired from sleeping newborns. We can then compare dynamic FC from a test sample of babies who are at a higher likelihood of developing conditions, like autism, against this reference. If we are successful with this pilot, future studies will examine i) what alters the maturation of dFC (informing prevention); and ii) whether newborn dynamic FC predicts childhood outcomes (informing intervention).
 
@@ -83,7 +83,7 @@ This project is funded by a [Wellcome Trust](http://wellcome.ac.uk/) [_Seed Awar
 
 See a related publication here: [Neonatal brain dynamic functional connectivity in term and preterm infants and its association with early childhood neurodevelopment](https://www.nature.com/articles/s41467-023-44050-z)
 
-*[Brain Health in Gen2020](https://www.kcl.ac.uk/research/brain-health-in-gen2020)
+* [Brain Health in Gen2020](https://www.kcl.ac.uk/research/brain-health-in-gen2020)
 
 The Covid-19 pandemic has had a profound impact on global health and has raised many questions about its long-term effects, particularly on children born to mothers who were infected during pregnancy.
 
@@ -95,8 +95,9 @@ We work together with the Gen2020 clinical team, co-leading on the imaging work 
 
 Other projects in which we collaborate:
 
-*[Brain conductivity as a biomarker for neurodevelopmental outcome](https://kclpure.kcl.ac.uk/portal/en/projects/brain-conductivity-as-a-biomarker-for-neurodevelopmental-outcome) funded by the [MRC](https://www.ukri.org/councils/mrc/)
+* [Brain conductivity as a biomarker for neurodevelopmental outcome](https://kclpure.kcl.ac.uk/portal/en/projects/brain-conductivity-as-a-biomarker-for-neurodevelopmental-outcome) funded by the [MRC](https://www.ukri.org/councils/mrc/)
 
-*[Immersive and interactive Virtual Reality and ultra-high field MRI for awake studies of the neural correlates of social processing in early childhood and autism](https://action.org.uk/) funded by [Action Medical Research](https://action.org.uk/)
+* [Immersive and interactive Virtual Reality and ultra-high field MRI for awake studies of the neural correlates of social processing in early childhood and autism](https://action.org.uk/) funded by [Action Medical Research](https://action.org.uk/)
 
 **We typically have PhD projects available as part of the [MRC DTP](https://kcl-mrcdtp.com) and the [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk/academic-career-development/current-opportunities/)**
+**For RA opportunities please check [here](https://www.kcl.ac.uk/ioppn/about/work-for-us)**

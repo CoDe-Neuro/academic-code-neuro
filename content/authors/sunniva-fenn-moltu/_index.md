@@ -1,10 +1,10 @@
 ---
 title: Sunniva Fenn-Moltu
-role: PhD Student
-avatar_filename: kvhbqfzp_400x400.jpg
-bio: I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focuses on functional brain network topology and dynamics in typical and atypical development.
+role: Research Associate
+
+bio: I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focused on functional brain network topology and dynamics in typical and atypical development. I am now continuing my work as a Postdoctoral Research Associate, characterising early development of functional brain networks and their association with childhood outcomes.
 interests:
-- I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focuses on functional brain network topology and dynamics in typical and atypical development.
+- I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focuse on functional brain network topology and dynamics in typical and atypical development.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,4 +22,4 @@ superuser: false
 user_groups:
   - Team
 ---
-I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focuses on functional brain network topology and dynamics in typical and atypical development.
+I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focused on functional brain network topology and dynamics in typical and atypical development. I am now continuing my work as a Postdoctoral Research Associate, characterising early development of functional brain networks and their association with childhood outcomes.

@@ -19,7 +19,7 @@ organizations:
     url: https://www.kcl.ac.uk/people/laila-hadaya
 superuser: false
 user_groups:
-  - Team
+  - Alumni
 ---
 
 
