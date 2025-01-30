@@ -4,7 +4,7 @@ role: PhD Student
 
 bio: I completed my BSc in Physics and MSc in Cognitive Neuroscience at Beijing Normal University, China. My research interest focuses on brain connectivity and dynamics in early brain development, and their relationship to neurodevelopmental conditions.
 interests:
-- BSc in Physics and MSc in Cognitive Neuroscience at Beijing Normal University. Current project focuses on graph theory and functional connectivity dynamics in early development.
+- BSc in Physics and MSc in Cognitive Neuroscience at Beijing Normal University. My current project focuses on studying functional connectivity dynamics in early development using graph theory.
 social:
   - icon: envelope
     icon_pack: fas

@@ -4,7 +4,7 @@ role: PhD Student
 avatar_filename: kvhbqfzp_400x400.jpg
 bio: Returned to academia after 8+ years in the industry in electronics and software engineering roles. My academic background is in Bioinformatics (MSc, Birkbeck/UCL) and Biomedical Imaging (MRes, King’s College London). As part of my PhD, I am exploring methods for predicting phenotypes for autism spectrum disorder (ASD) from neonatal brain connectivity, which is quite thrilling!
 interests:
-- As part of my PhD, I am exploring methods for predicting phenotypes for autism spectrum disorder (ASD) from neonatal brain connectivity, which is quite thrilling!
+- As part of my PhD, I am exploring methods for predicting phenotypes in autism from neonatal brain connectivity, which is quite thrilling!
 social:
   - icon: envelope
     icon_pack: fas
