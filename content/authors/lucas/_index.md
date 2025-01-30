@@ -10,10 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Research Associate (2020-2023)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lucas worked with us as a research associate 2020-2023, characterising dynamic functional connectivity in neonates. He is now an Assistant Professor at Northumbria University.
+bio:
+interests:
+- Lucas worked with us focused on characterising dynamic functional connectivity in neonates.
+- He is now an Assistant Professor at Northumbria University.
 
 
 #education:
@@ -62,4 +65,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.

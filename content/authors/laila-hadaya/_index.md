@@ -1,12 +1,11 @@
 ---
-title: Laila Hadaya
-role: PhD Student
+title: Dr. Laila Hadaya
+role: PhD Student (2020-2024)
 avatar_filename: laila-hadaya.x698efc45.png
-bio: I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am
-  particularly interested in identifying predictive biomarkers of mental health
-  outcomes and trajectories using neuroimaging and machine learning approaches.
+bio:
 interests:
-- I have a Neuroscience (BSc) and Psychiatric Research (MSc) background. I am particularly interested in identifying predictive biomarkers of mental health outcomes and trajectories using neuroimaging and machine learning approaches.
+- Project: _A lifespan perspective on brain-behavioural heterogeneity following very preterm birth_
+- Currently working as a data analyst in industry.
 social:
   - icon: envelope
     icon_pack: fas
