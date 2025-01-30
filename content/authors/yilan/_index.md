@@ -4,7 +4,7 @@ role: PhD Student (2020-2024)
 avatar_filename: yilan.jpg
 bio:
 interests:
-- Project-> Machine Learning to Uncover Neuroimaging Features of Autism
+- _Machine Learning to Uncover Neuroimaging Features of Autism_
 social:
   - icon: envelope
     icon_pack: fas
