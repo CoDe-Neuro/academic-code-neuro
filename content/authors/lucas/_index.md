@@ -10,18 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postodoctoral Research Associate
-
-# Organizations/Affiliations
-organizations:
-- name: King's College London
-  url: "https://www.kcl.ac.uk/people/lucas-franca"
+role: Research Associate
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.
+bio: Lucas worked with us as a research associate 2020-2023, characterising dynamic functional connectivity in neonates. He is now an Assistant Professor at Northumbria University.
 
-interests:
-- I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience. My research interests include Complex Systems, Computational Neuroscience and Machine Learning.
 
 #education:
 # courses:
@@ -67,6 +60,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Alumni
 ---
 I am a research associate at the Centre for the Developing Brain and the Department of Forensic and Neurodevelopmental Science, King’s College London. My research interests include Complex Systems, Computational Neuroscience and Machine Learning. I have a BSc in physics, a MSc in Physics (Statistical Physics and Complex Systems), and a PhD in Neuroscience.
