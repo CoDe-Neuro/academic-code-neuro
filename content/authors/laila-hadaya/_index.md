@@ -4,7 +4,7 @@ role: PhD Student (2020-2024)
 avatar_filename: laila-hadaya.x698efc45.png
 bio:
 interests:
-- _A lifespan perspective on brain-behavioural heterogeneity following very preterm birth_. Currently working as a data analyst in industry.
+- _A lifespan perspective on brain-behavioural heterogeneity following very preterm birth_. Currently working as a data scientist in the private sector (health technologies).
 social:
   - icon: envelope
     icon_pack: fas
