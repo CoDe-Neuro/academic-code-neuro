@@ -15,7 +15,7 @@ role: Research Associate (2020-2023)
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-- Lucas work with us focused on characterising dynamic functional connectivity in neonates. He is now an Assistant Professor at Northumbria University.
+- Lucas research project focused on characterising dynamic functional connectivity in neonates. He is now an Assistant Professor at Northumbria University.
 
 
 #education:
