@@ -47,7 +47,7 @@ social:
   link: 'mailto:contact@code-neuro.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/code-neuro 
+  link: https://github.com/code-neuro
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=ZJYE5x8AAAAJ
@@ -66,17 +66,12 @@ user_groups:
 - admin
 ---
 
-{{< figure library="true" src="all_logos3.png">}}
+{{< figure library="true" src="static/media/all_logos3.png">}}
 
-Welcome to the **Computational Developmental Neuroscience Lab (CoDe-Neuro)** 
+Welcome to the **Computational Developmental Neuroscience Lab (CoDe-Neuro)**
 
 Our research focuses on studying the emergence of brain organization during early development and how subtle alterations in key developmental processes lead to neurodevelopmental disorders. To do so, we use multi-modal MRI, graph theory, whole-brain computational models, machine learning and other signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children with a higher likelihood of showing neurodevelopmental conditions.
 
-We work alongside the [Forensic and Neurodevelopmental Science (FANS) department](https://www.kcl.ac.uk/academic-psychiatry/about/departments/forensic-neurodevelopmental-sciences) at the [Institute of Psychiatry, Psychology & Neuroscience](https://www.kcl.ac.uk/ioppn) and the [Centre for the Developing Brain (CDB)](https://www.developingbrain.co.uk/about-the-centre-for-the-developing-brain/) at the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) and collaborate with the [developing Human Connectome](http://www.developingconnectome.org) and the [AIMS-2-TRIALS](https://www.aims-2-trials.eu) projects: 
-{{< figure library="true" src="dhcp_logobar.png">}}
-{{< figure library="true" src="logo_aims-2-trials-80.png">}}
-
-We are grateful to the Wellcome Trust for funding a [Seed Awards in Science](https://europepmc.org/grantfinder/grantdetails?query=pi%3A%22Batalle%2BD%22%2Bgid%3A%22217316%22%2Bga%3A%22Wellcome%20Trust%22) project.
-
-{{< figure library="true" src="logo_Wellcome200white.png">}} 
-
+We work alongside the [Forensic and Neurodevelopmental Science (FANS) department](https://www.kcl.ac.uk/academic-psychiatry/about/departments/forensic-neurodevelopmental-sciences) at the [Institute of Psychiatry, Psychology & Neuroscience](https://www.kcl.ac.uk/ioppn) and the [Centre for the Developing Brain (CDB)](https://www.developingbrain.co.uk/about-the-centre-for-the-developing-brain/) at the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) and collaborate with the [developing Human Connectome](http://www.developingconnectome.org) and the [AIMS-2-TRIALS](https://www.aims-2-trials.eu) projects:
+{{< figure library="true" src="static/media/dhcp_logobar.png">}}
+{{< figure library="true" src="static/media/logo_aims-2-trials-80.png">}}
