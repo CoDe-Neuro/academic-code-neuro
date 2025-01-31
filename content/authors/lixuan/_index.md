@@ -4,7 +4,7 @@ role: PhD Student
 
 bio:
 interests:
-- Master of Engineering degree in Biomedical Engineering at King’s College London (20220, investigating social attention using an MRI compatible VR system. She then joined ShanghaiTech University in China as an MR engineer and helped with the construction of the Chinese Baby Connectome Project (CBCP). Lixuan came back to King’s for her PhD research in 2024 and her aim is to use the MR compatible VR system to explore differences in brain processing in neurodevelopmental conditions, with a particular focus on autism.
+- Master of Engineering degree in Biomedical Engineering at King’s College London (2022). She then joined ShanghaiTech University in China as an MR engineer and helped with the construction of the Chinese Baby Connectome Project (CBCP). In 2024 Lixuan came back to King’s for her PhD research focused on how MR compatible VR system can be used to explore differences in brain processing in neurodevelopmental conditions.
 social:
   - icon: envelope
     icon_pack: fas

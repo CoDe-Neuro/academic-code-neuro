@@ -1,5 +1,5 @@
 ---
-title: Yilan Dong
+title: Dr. Yilan Dong
 role: PhD Student (2020-2024)
 avatar_filename: yilan.jpg
 bio:

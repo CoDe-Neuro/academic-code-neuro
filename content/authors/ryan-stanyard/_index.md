@@ -4,8 +4,8 @@ role: PhD Student
 avatar_filename: ryan.jpg
 superuser: false
 
-interests: 
-- Originally trained in Neuroscience and Psychology (BSc, Keele), I then specialised in Neuroimaging (MSc, MRes, King’s College London). My PhD utilises graph theory, neuroimaging methods and whole-brain computational modelling to examine how neurodevelopmental disease modulates the coupling of brain structure and function across the lifespan. 
+interests:
+- Originally trained in Neuroscience and Psychology (BSc, Keele), I then specialised in Neuroimaging (MSc, MRes, KCL). My PhD examines the origin of functional connectivity across the lifespan, with a particular focus on what can we learn about excitatory/inhibitory balance from EEG aperiodic exponent. 
 
 social:
 - icon: envelope
