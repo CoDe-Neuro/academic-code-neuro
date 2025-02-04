@@ -18,8 +18,7 @@ organizations:
   url: "https://kclpure.kcl.ac.uk/portal/dafnis.batalle.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Both an engineer (MEng Telecommunications) and a neuroscientist (MSc, PhD), I use mathematical tools and computational models to study the emergence of brain organization during early development. I joined the IoPPN in 2018, where I am currently a Senior Lecturer (Associate Professor). Our lab research focuses on studying the emergence of brain organisation during early development and how subtle alterations in key developmental processes lead to neurodevelopmental conditions. To do so, we use multi-modal MRI, whole-brain computational models, graph theory and signal processing tools to characterise structural and functional connectivity. By these means, we aim to develop biomarkers of typical and atypical development allowing us to predict the heterogeneous outcome of children with an increased likelihood of neurodevelopmental conditions.
-
+bio: 
 interests:
 - I use mathematical tools and computational models to study the emergence of brain organisation from early development. I am particularly interested in characterising brain structure and function in neurodiverse populations, and how sociodemographic and clinical factors interact with brain phenotypes.  
 

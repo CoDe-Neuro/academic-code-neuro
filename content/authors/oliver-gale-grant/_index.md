@@ -18,8 +18,7 @@ organizations:
   url: "https://kclpure.kcl.ac.uk/portal/en/persons/oliver-galegrant(f382474c-4412-4bed-aa58-f886e29a9d33).html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist, before starting my PhD in 2020. Since 2024 I am a Clinical Lecturer at the IoPPN, studying the relationship between socio-economic status, brain biology and early life outcomes.
-
+bio:
 interests:
 - My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist. My PhD focused on the relationship between socio-economic status, brain biology and early life outcomes.
 
