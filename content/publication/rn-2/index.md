@@ -2,15 +2,15 @@
 title: Distinct Neurodevelopmental Trajectories in Groups of Very Preterm Children
   Screening Positively for Autism Spectrum Conditions
 authors:
-- L. Hadaya
+- Laila Hadaya
 - L. Vanes
 - V. Karolis
 - D. Kanel
-- M. Leoni
+- Marguerite Leoni
 - F. Happe
 - A. D. Edwards
 - S. J. Counsell
-- D. Batalle
+- Dafnis Batalle
 - C. Nosarti
 date: '2024-01-01'
 publishDate: '2025-02-04T14:17:24.504733Z'
@@ -41,7 +41,6 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/36273367
-
 publication_types:
-  - '4'
+      - '4'  
 ---
