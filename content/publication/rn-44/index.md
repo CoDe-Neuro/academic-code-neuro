@@ -40,14 +40,13 @@ abstract: 'INTRODUCTION: The structural correspondence of neurodevelopmental imp
   consequences of IUGR.'
 tags:
 - Animals Behavior
-- Animal/physiology Brain/diagnostic imaging/growth & development/*physiopathology
-  Diffusion Magnetic Resonance Imaging Disease Models
+- Animal/physiology
+- Brain/diagnostic imaging/growth & development
+- physiopathology
+- Diffusion Magnetic Resonance Imaging Disease Models
 - Animal *Environment Female Fetal Growth Retardation/diagnostic imaging/*physiopathology
   Housing
-- Animal Male Nerve Net/diagnostic imaging/growth & development/*physiopathology Pregnancy
-  Rabbits Animal model Dendritic spine density Diffusion-weighted magnetic resonance
-  imaging Environmental enrichment Intrauterine growth restriction Object recognition
-  task Open field behavioral test Perineuronal nets Skinner test Therapy
+
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/29020672
