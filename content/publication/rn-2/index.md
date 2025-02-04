@@ -41,4 +41,7 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/36273367
+
+publication_types:
+  - '4'
 ---
