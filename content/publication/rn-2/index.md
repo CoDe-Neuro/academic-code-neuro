@@ -2,7 +2,7 @@
 title: Distinct Neurodevelopmental Trajectories in Groups of Very Preterm Children
   Screening Positively for Autism Spectrum Conditions
 authors:
-- Laila Hadaya
+- Dr. Laila Hadaya
 - L. Vanes
 - V. Karolis
 - D. Kanel

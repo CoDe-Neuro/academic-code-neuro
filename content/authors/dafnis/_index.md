@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lab Lead, Senior Lecturer
+role: Lab Head, Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
