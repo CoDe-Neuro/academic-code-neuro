@@ -4,7 +4,7 @@ role: Research Associate
 
 bio:
 interests:
-- My PhD focused on functional brain network topology and dynamics in typical and atypical development. I am now continuing this work as a Postdoctoral Research Associate, characterising early development of functional brain networks and their association with childhood outcomes.
+- I am a Postdoctoral Research Associate with a PhD in Neuroscience and an MRes in Biomedical and Translational Sciences from King’s College London, as well as a BSc in Neuroscience from the University of Glasgow. My research explores early brain development and its role in shaping individual differences and neurodiversity. I also work with high-resolution 7T fMRI and naturalistic stimuli to study dynamic functional brain activity in neurodivergent adult populations, and how brain dynamics are influenced by sensory stimuli.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,4 +22,11 @@ superuser: false
 user_groups:
   - Team
 ---
-I completed my undergraduate degree in Neuroscience at the University of Glasgow, before joining the MRC Doctoral Training Partnership in Biomedical Sciences at King’s College London. My PhD focused on functional brain network topology and dynamics in typical and atypical development. I am now continuing my work as a Postdoctoral Research Associate, characterising early development of functional brain networks and their association with childhood outcomes.
+I am a Postdoctoral Research Associate with a PhD in Neuroscience and an MRes in Biomedical and Translational Sciences from King’s College London, as well as a BSc in Neuroscience from the University of Glasgow.
+My research explores early brain development and its role in shaping individual differences and neurodiversity. As part of the Brain Imaging in Babies Study, I use functional MRI to investigate how brain organisation and dynamics emerge in infancy and relate to later neurodevelopmental profiles, with a focus on children at increased likelihood of neurodevelopmental conditions.
+Additionally, I work with high-resolution 7T fMRI and naturalistic stimuli to study dynamic functional brain activity in neurodivergent adult populations, and how brain dynamics are influenced by sensory stimuli.
+
+Research interests:
+- Neuroimaging and dynamic functional connectivity
+- Neurodevelopment and the emergence of individual differences
+- Neurodiversity and neurodevelopmental conditions
