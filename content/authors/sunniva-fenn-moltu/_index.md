@@ -4,7 +4,7 @@ role: Research Associate
 
 bio:
 interests:
-- I am a Postdoctoral Research Associate with a PhD in Neuroscience and an MRes in Biomedical and Translational Sciences from King’s College London, as well as a BSc in Neuroscience from the University of Glasgow. My research explores early brain development and its role in shaping individual differences and neurodiversity. I also work with high-resolution 7T fMRI and naturalistic stimuli to study dynamic functional brain activity in neurodivergent adult populations, and how brain dynamics are influenced by sensory stimuli.
+- My research explores early brain development and its role in shaping individual differences and neurodiversity. I also work with high-resolution 7T fMRI and naturalistic stimuli to study dynamic functional brain activity in neurodivergent adult populations, and how brain dynamics are influenced by sensory stimuli.
 social:
   - icon: envelope
     icon_pack: fas
