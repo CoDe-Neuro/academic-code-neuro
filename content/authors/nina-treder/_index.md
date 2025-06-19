@@ -4,7 +4,7 @@ role: PhD Student
 
 bio:
 interests:
-- Early development of cerebellar and cerebro-cerebellar connectivity.
+- My background is in Fundamental Neuroscience and Psychology (MSc & BSc, Maastricht University). My research focuses on the early development of the cerebellum, using structural and functional MRI to investigate how the cerebellar connectome emerges and how it relates to neurodevelopmental outcomes.
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,3 +16,5 @@ superuser: false
 user_groups:
   - Team
 ---
+
+My background is in Fundamental Neuroscience and Psychology (MSc & BSc, Maastricht University). My research focuses on the early development of the cerebellum, using structural and functional MRI to investigate how the cerebellar connectome emerges and how it relates to neurodevelopmental outcomes.

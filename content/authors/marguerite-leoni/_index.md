@@ -4,7 +4,7 @@ role: PhD Student
 
 bio:
 interests:
-- Using functional brain dynamics to probe transdiagnostic behavioural outcomes following very preterm birth.
+- I completed a psychology with placement year BSc at King’s College London, followed by an MRes in experimental neurosciences at Imperial. Currently, my PhD focuses on using dynamic functional connectivity to probe transdiagnostic behavioural outcomes in children born very preterm.
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,3 +19,4 @@ superuser: false
 user_groups:
   - Team
 ---
+I completed a psychology with placement year BSc at King’s College London, followed by an MRes in experimental neurosciences at Imperial. Currently, my PhD focuses on using dynamic functional connectivity to probe transdiagnostic behavioural outcomes in children born very preterm.
