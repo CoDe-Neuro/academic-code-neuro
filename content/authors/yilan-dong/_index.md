@@ -4,7 +4,7 @@ role: PhD Student (2020-2024)
 avatar_filename: yilan.jpg
 bio:
 interests:
-- Yilan's Phd project focused on _Machine Learning to Uncover Neuroimaging Features of Autism_
+- Yilan's Phd project focused on _Machine Learning to Uncover Neuroimaging Features of Autism_. Currently working as a data scientist in the private sector (health technologies).
 social:
   - icon: envelope
     icon_pack: fas

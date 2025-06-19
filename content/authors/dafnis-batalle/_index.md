@@ -18,7 +18,7 @@ organizations:
   url: "https://kclpure.kcl.ac.uk/portal/dafnis.batalle.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 interests:
 - I use mathematical tools and computational models to study the emergence of brain organisation from early development. I am particularly interested in characterising brain structure and function in neurodiverse populations, and how sociodemographic and clinical factors interact with brain phenotypes.  
 

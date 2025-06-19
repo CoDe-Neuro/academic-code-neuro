@@ -1,11 +1,11 @@
 ---
-title: Ryan Stanyard
-role: PhD Student
+title: Dr. Ryan Stanyard
+role: PhD Student (2020-2025)
 avatar_filename: ryan.jpg
 superuser: false
-
+bio:
 interests:
-- Originally trained in Neuroscience and Psychology (BSc, Keele), I then specialised in Neuroimaging (MSc, MRes, KCL). My PhD examines the origin of functional connectivity across the lifespan, with a particular focus on what can we learn about excitatory/inhibitory balance from EEG aperiodic exponent. 
+- Ryan's PhD focused on examining _The emergence of functional connectivity and the role of excitation-inhibition balance in the developing human brain_. Currently working as a Research Associate at Keele University.
 
 social:
 - icon: envelope
@@ -23,5 +23,5 @@ social:
 
 
 user_groups:
-  - Team
+  - Alumni
 ---
