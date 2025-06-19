@@ -4,7 +4,7 @@ title: ADHD symptoms and their neurodevelopmental correlates in children born ve
 authors:
 - A. Montagna
 - V. Karolis
-- D. Batalle
+- Dafnis Batalle
 - S. Counsell
 - M. Rutherford
 - S. Arulkumaran
@@ -12,7 +12,7 @@ authors:
 - D. Edwards
 - C. Nosarti
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.205866Z'
+publishDate: '2025-06-19T13:12:19.479001Z'
 publication_types:
 - article-journal
 publication: '*PLoS One*'
@@ -52,6 +52,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/32126073
-publication_types:
-        - '4'    
 ---

@@ -18,7 +18,7 @@ authors:
 - A. D. Edwards
 - Dafnis Batalle
 date: '2024-01-01'
-publishDate: '2025-02-04T14:17:24.495181Z'
+publishDate: '2025-06-19T13:12:19.756042Z'
 publication_types:
 - article-journal
 publication: '*Sci Rep*'
@@ -47,6 +47,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/38600134
-publication_types:
-        - '4'  
 ---

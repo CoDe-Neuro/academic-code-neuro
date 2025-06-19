@@ -12,7 +12,7 @@ authors:
 - J. Bozek
 - A. Schuh
 - A. Makropoulos
-- D. Batalle
+- Dafnis Batalle
 - J. Hutter
 - K. Vecchiato
 - J. K. Steinweg
@@ -26,7 +26,7 @@ authors:
 - S. J. Counsell
 - A. D. Edwards
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.235458Z'
+publishDate: '2025-06-19T13:12:19.505888Z'
 publication_types:
 - article-journal
 publication: '*Brain*'
@@ -60,6 +60,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/31942938
-publication_types:
-        - '4'    
 ---

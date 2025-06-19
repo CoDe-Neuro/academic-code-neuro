@@ -16,7 +16,7 @@ authors:
 - A. David Edwards
 - S. J. Counsell
 date: '2023-01-01'
-publishDate: '2025-02-04T14:17:24.435161Z'
+publishDate: '2025-06-19T13:12:19.699755Z'
 publication_types:
 - article-journal
 publication: '*Environ Int*'
@@ -54,6 +54,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/37058974
-publication_types:
-        - '4'  
 ---

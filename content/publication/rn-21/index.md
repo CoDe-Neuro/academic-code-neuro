@@ -16,7 +16,7 @@ authors:
 - A. D. Edwards
 - C. Nosarti
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.306922Z'
+publishDate: '2025-06-19T13:12:19.572891Z'
 publication_types:
 - article-journal
 publication: '*J Pediatr*'
@@ -53,6 +53,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34245768
-publication_types:
-        - '4'    
 ---

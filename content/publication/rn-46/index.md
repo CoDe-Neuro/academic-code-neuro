@@ -3,7 +3,7 @@ title: A tract-specific approach to assessing white matter in preterm infants
 authors:
 - D. Pecheva
 - P. Yushkevich
-- D. Batalle
+- Dafnis Batalle
 - E. Hughes
 - P. Aljabar
 - J. Wurie
@@ -13,7 +13,7 @@ authors:
 - S. J. Counsell
 - H. Zhang
 date: '2017-01-01'
-publishDate: '2025-02-04T14:17:24.046564Z'
+publishDate: '2025-06-19T13:12:19.334741Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage*'
@@ -48,6 +48,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/28457976
-publication_types:
-          - '4'    
 ---

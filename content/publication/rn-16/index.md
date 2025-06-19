@@ -18,7 +18,7 @@ authors:
 - A. D. Edwards
 - Dafnis Batalle
 date: '2022-01-01'
-publishDate: '2025-02-04T14:17:24.365508Z'
+publishDate: '2025-06-19T13:12:19.630923Z'
 publication_types:
 - article-journal
 publication: '*Dev Cogn Neurosci*'
@@ -46,6 +46,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/35662682
-publication_types:
-        - '4'    
 ---

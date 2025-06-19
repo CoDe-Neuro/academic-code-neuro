@@ -7,14 +7,14 @@ authors:
 - J. D. Tournier
 - M. Pietsch
 - D. Christiaens
-- D. Batalle
+- Dafnis Batalle
 - D. C. Alexander
 - J. V. Hajnal
 - A. D. Edwards
 - H. Zhang
 - S. J. Counsell
 date: '2019-01-01'
-publishDate: '2025-02-04T14:17:24.140593Z'
+publishDate: '2025-06-19T13:12:19.421660Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage Clin*'
@@ -53,6 +53,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/30991305
-publication_types:
-        - '4'    
 ---

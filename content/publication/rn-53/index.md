@@ -10,7 +10,7 @@ authors:
 - E. Eixarch
 - E. Gratacos
 date: '2014-01-01'
-publishDate: '2025-02-04T14:17:23.986617Z'
+publishDate: '2025-06-19T13:12:19.280304Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage*'
@@ -51,6 +51,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/24943271
-publication_types:
-          - '4'    
 ---

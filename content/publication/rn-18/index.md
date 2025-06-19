@@ -12,7 +12,7 @@ authors:
 - A. D. Edwards
 - C. Nosarti
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.344710Z'
+publishDate: '2025-06-19T13:12:19.612486Z'
 publication_types:
 - article-journal
 publication: '*Biol Psychiatry Glob Open Sci*'
@@ -46,6 +46,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34471914
-publication_types:
-        - '4'    
 ---

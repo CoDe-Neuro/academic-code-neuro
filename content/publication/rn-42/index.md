@@ -2,7 +2,7 @@
 title: Different patterns of cortical maturation before and after 38 weeks gestational
   age demonstrated by diffusion MRI in vivo
 authors:
-- D. Batalle
+- Dafnis Batalle
 - J. O'Muircheartaigh
 - A. Makropoulos
 - C. J. Kelly
@@ -14,7 +14,7 @@ authors:
 - A. D. Edwards
 - S. J. Counsell
 date: '2019-01-01'
-publishDate: '2025-02-04T14:17:24.107778Z'
+publishDate: '2025-06-19T13:12:19.388842Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage*'
@@ -55,6 +55,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/29802969
-publication_types:
-          - '4'    
 ---

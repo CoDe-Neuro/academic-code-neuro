@@ -12,7 +12,7 @@ authors:
 - Dafnis Batalle
 - L. Cordero-Grande
 - A. N. Price
-- R. Teixeira
+- Rpag Teixeira
 - E. Hughes
 - A. Egloff
 - J. Hutter
@@ -32,7 +32,7 @@ authors:
 - J. O'Muircheartaigh
 - A. D. Edwards
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.245291Z'
+publishDate: '2025-06-19T13:12:19.515338Z'
 publication_types:
 - article-journal
 publication: '*Cereb Cortex*'
@@ -65,6 +65,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/33822913
-publication_types:
-        - '4'    
 ---

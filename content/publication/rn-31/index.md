@@ -1,7 +1,7 @@
 ---
 title: Parental age effects on neonatal white matter development
 authors:
-- O. Gale-Grant
+- Oliver Gale-Grant
 - D. Christiaens
 - L. Cordero-Grande
 - A. Chew
@@ -19,7 +19,7 @@ authors:
 - J. O'Muircheartaigh
 - Dafnis Batalle
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.195126Z'
+publishDate: '2025-06-19T13:12:19.469962Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage Clin*'
@@ -58,6 +58,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/32526683
-publication_types:
-        - '4'    
 ---

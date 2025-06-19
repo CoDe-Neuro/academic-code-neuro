@@ -6,7 +6,7 @@ authors:
 - R. Tudela
 - A. Marquez-Martin
 - L. Camon
-- D. Batalle
+- Dafnis Batalle
 - E. Munoz-Moreno
 - E. Eixarch
 - J. Puig
@@ -15,7 +15,7 @@ authors:
 - A. Prats-Galino
 - A. M. Planas
 date: '2013-01-01'
-publishDate: '2025-02-04T14:17:23.976519Z'
+publishDate: '2025-06-19T13:12:19.270596Z'
 publication_types:
 - article-journal
 publication: '*PLoS One*'
@@ -53,6 +53,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/24058609
-publication_types:
-          - '4'    
 ---

@@ -6,7 +6,7 @@ authors:
 - D. Christiaens
 - J. Ciarrusta
 - T. Wolfers
-- D. Batalle
+- Dafnis Batalle
 - E. Hughes
 - J. Hutter
 - L. Cordero-Grande
@@ -26,7 +26,7 @@ authors:
 - A. D. Edwards
 - J. O'Muircheartaigh
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.172590Z'
+publishDate: '2025-06-19T13:12:19.451237Z'
 publication_types:
 - article-journal
 publication: '*Cereb Cortex*'
@@ -58,6 +58,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/32306044
-publication_types:
-        - '4'    
 ---

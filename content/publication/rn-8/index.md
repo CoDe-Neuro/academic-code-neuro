@@ -29,7 +29,7 @@ authors:
 - G. McAlonan
 - Dafnis Batalle
 date: '2023-01-01'
-publishDate: '2025-02-04T14:17:24.445122Z'
+publishDate: '2025-06-19T13:12:19.709784Z'
 publication_types:
 - article-journal
 publication: '*Cereb Cortex*'
@@ -60,6 +60,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/36408638
-publication_types:
-        - '4'  
 ---

@@ -2,7 +2,7 @@
 title: Cerebello-cerebral connectivity in the developing brain
 authors:
 - K. Pieterman
-- D. Batalle
+- Dafnis Batalle
 - J. Dudink
 - J. D. Tournier
 - E. J. Hughes
@@ -12,7 +12,7 @@ authors:
 - F. E. Hoebeek
 - S. J. Counsell
 date: '2017-01-01'
-publishDate: '2025-02-04T14:17:24.057060Z'
+publishDate: '2025-06-19T13:12:19.343256Z'
 publication_types:
 - article-journal
 publication: '*Brain Struct Funct*'
@@ -45,6 +45,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/27573027
-publication_types:
-          - '4'    
 ---

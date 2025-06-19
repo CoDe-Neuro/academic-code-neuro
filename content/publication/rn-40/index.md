@@ -4,7 +4,7 @@ title: Abnormal Microstructural Development of the Cerebral Cortex in Neonates W
 authors:
 - C. J. Kelly
 - D. Christiaens
-- D. Batalle
+- Dafnis Batalle
 - A. Makropoulos
 - L. Cordero-Grande
 - J. K. Steinweg
@@ -20,7 +20,7 @@ authors:
 - M. A. Rutherford
 - S. J. Counsell
 date: '2019-01-01'
-publishDate: '2025-02-04T14:17:24.130625Z'
+publishDate: '2025-06-19T13:12:19.410276Z'
 publication_types:
 - article-journal
 publication: '*J Am Heart Assoc*'
@@ -62,6 +62,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/30821171
-publication_types:
-        - '4'    
 ---

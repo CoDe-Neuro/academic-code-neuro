@@ -24,7 +24,7 @@ authors:
 - M. Deprez
 - Dafnis Batalle
 date: '2022-01-01'
-publishDate: '2025-02-04T14:17:24.415242Z'
+publishDate: '2025-06-19T13:12:19.680929Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage*'
@@ -60,6 +60,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/35589001
-publication_types:
-        - '4'    
 ---

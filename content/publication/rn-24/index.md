@@ -30,7 +30,7 @@ authors:
 - A. D. Edwards
 - J. O'Muircheartaigh
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.255604Z'
+publishDate: '2025-06-19T13:12:19.524708Z'
 publication_types:
 - article-journal
 publication: '*Neuroimage*'
@@ -72,6 +72,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34419595
-publication_types:
-        - '4'    
 ---

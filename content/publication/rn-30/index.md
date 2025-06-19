@@ -6,7 +6,7 @@ authors:
 - R. Dimitrova
 - J. Seidlitz
 - E. C. Robinson
-- D. Batalle
+- Dafnis Batalle
 - J. Hutter
 - D. Christiaens
 - M. Pietsch
@@ -27,7 +27,7 @@ authors:
 - A. D. Edwards
 - J. O'Muircheartaigh
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.182851Z'
+publishDate: '2025-06-19T13:12:19.461082Z'
 publication_types:
 - article-journal
 publication: '*Cereb Cortex*'
@@ -57,6 +57,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/32537627
-publication_types:
-        - '4'    
 ---

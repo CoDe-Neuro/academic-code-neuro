@@ -4,7 +4,7 @@ title: Effects of gestational age at birth on perinatal structural brain develop
 authors:
 - Oliver Gale-Grant
 - Sunniva Fenn-Moltu
-- L. G. S. Franca
+- Lucas Franca
 - R. Dimitrova
 - D. Christiaens
 - L. Cordero-Grande
@@ -25,7 +25,7 @@ authors:
 - A. D. Edwards
 - Dafnis Batalle
 date: '2022-01-01'
-publishDate: '2025-02-04T14:17:24.394915Z'
+publishDate: '2025-06-19T13:12:19.661712Z'
 publication_types:
 - article-journal
 publication: '*Hum Brain Mapp*'
@@ -59,6 +59,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34897872
-publication_types:
-        - '4'    
 ---

@@ -14,7 +14,7 @@ authors:
 - A. D. Edwards
 - S. J. Counsell
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.287218Z'
+publishDate: '2025-06-19T13:12:19.553943Z'
 publication_types:
 - article-journal
 publication: '*Neuroradiology*'
@@ -51,6 +51,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/33123752
-publication_types:
-        - '4'    
 ---

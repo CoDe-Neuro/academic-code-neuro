@@ -5,7 +5,7 @@ authors:
 - J. Ciarrusta
 - J. O'Muircheartaigh
 - R. Dimitrova
-- D. Batalle
+- Dafnis Batalle
 - L. Cordero-Grande
 - A. Price
 - E. Hughes
@@ -22,7 +22,7 @@ authors:
 - T. Arichi
 - G. McAlonan
 date: '2019-01-01'
-publishDate: '2025-02-04T14:17:24.118657Z'
+publishDate: '2025-06-19T13:12:19.399053Z'
 publication_types:
 - article-journal
 publication: '*JAMA Netw Open*'
@@ -73,6 +73,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/30951164
-publication_types:
-        - '4'    
 ---

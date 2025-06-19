@@ -7,7 +7,7 @@ authors:
 - L. Pla
 - E. Eixarch
 - A. Arbat-Plana
-- D. Batalle
+- Dafnis Batalle
 - E. Munoz-Moreno
 - F. Crispi
 - E. Udina
@@ -15,7 +15,7 @@ authors:
 - S. Gines
 - E. Gratacos
 date: '2018-01-01'
-publishDate: '2025-02-04T14:17:24.088444Z'
+publishDate: '2025-06-19T13:12:19.371445Z'
 publication_types:
 - article-journal
 publication: '*Fetal Diagn Ther*'
@@ -40,16 +40,15 @@ abstract: 'INTRODUCTION: The structural correspondence of neurodevelopmental imp
   consequences of IUGR.'
 tags:
 - Animals Behavior
-- Animal/physiology
-- Brain/diagnostic imaging/growth & development
-- physiopathology
-- Diffusion Magnetic Resonance Imaging Disease Models
+- Animal/physiology Brain/diagnostic imaging/growth & development/*physiopathology
+  Diffusion Magnetic Resonance Imaging Disease Models
 - Animal *Environment Female Fetal Growth Retardation/diagnostic imaging/*physiopathology
   Housing
-
+- Animal Male Nerve Net/diagnostic imaging/growth & development/*physiopathology Pregnancy
+  Rabbits Animal model Dendritic spine density Diffusion-weighted magnetic resonance
+  imaging Environmental enrichment Intrauterine growth restriction Object recognition
+  task Open field behavioral test Perineuronal nets Skinner test Therapy
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/29020672
-publication_types:
-          - '4'    
 ---

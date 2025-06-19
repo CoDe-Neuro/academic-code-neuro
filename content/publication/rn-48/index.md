@@ -5,14 +5,14 @@ authors:
 - M. Illa
 - E. Eixarch
 - E. Munoz-Moreno
-- D. Batalle
+- Dafnis Batalle
 - R. Leal-Campanario
 - A. Gruart
 - J. M. Delgado-Garcia
 - F. Figueras
 - E. Gratacos
 date: '2017-01-01'
-publishDate: '2025-02-04T14:17:24.037107Z'
+publishDate: '2025-06-19T13:12:19.326494Z'
 publication_types:
 - article-journal
 publication: '*Fetal Diagn Ther*'
@@ -43,6 +43,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/28052270
-publication_types:
-          - '4'    
 ---

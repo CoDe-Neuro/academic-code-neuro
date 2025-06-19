@@ -14,7 +14,7 @@ authors:
 - Dafnis Batalle
 - J. Lemiere
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.326205Z'
+publishDate: '2025-06-19T13:12:19.591745Z'
 publication_types:
 - article-journal
 publication: '*Radiother Oncol*'
@@ -51,6 +51,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34102233
-publication_types:
-        - '4'    
 ---

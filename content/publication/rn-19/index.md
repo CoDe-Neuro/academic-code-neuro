@@ -18,7 +18,7 @@ authors:
 - A. D. Edwards
 - M. Deprez
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.335869Z'
+publishDate: '2025-06-19T13:12:19.602139Z'
 publication_types:
 - article-journal
 publication: '*Front Neurosci*'
@@ -48,6 +48,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/34220423
-publication_types:
-        - '4'    
 ---

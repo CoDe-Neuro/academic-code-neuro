@@ -17,7 +17,7 @@ authors:
 - A. D. Edwards
 - C. Nosarti
 date: '2023-01-01'
-publishDate: '2025-02-04T14:17:24.475851Z'
+publishDate: '2025-06-19T13:12:19.737487Z'
 publication_types:
 - article-journal
 publication: '*Dev Cogn Neurosci*'
@@ -50,6 +50,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/37150083
-publication_types:
-        - '4'  
 ---

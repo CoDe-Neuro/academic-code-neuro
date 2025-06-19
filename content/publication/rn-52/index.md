@@ -5,10 +5,10 @@ authors:
 - E. Eixarch
 - E. Munoz-Moreno
 - N. Bargallo
-- D. Batalle
+- Dafnis Batalle
 - E. Gratacos
 date: '2016-01-01'
-publishDate: '2025-02-04T14:17:24.006179Z'
+publishDate: '2025-06-19T13:12:19.298697Z'
 publication_types:
 - article-journal
 publication: '*Am J Obstet Gynecol*'
@@ -63,6 +63,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/26719213
-publication_types:
-          - '4'    
 ---

@@ -10,7 +10,7 @@ authors:
 - E. Eixarch
 - E. Gratacos
 date: '2016-01-01'
-publishDate: '2025-02-04T14:17:23.996698Z'
+publishDate: '2025-06-19T13:12:19.289351Z'
 publication_types:
 - article-journal
 publication: '*Cortex*'
@@ -40,6 +40,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/26927726
-publication_types:
-          - '4'    
 ---

@@ -6,7 +6,7 @@ authors:
 - A. D. Edwards
 - J. O'Muircheartaigh
 date: '2018-01-01'
-publishDate: '2025-02-04T14:17:24.078933Z'
+publishDate: '2025-06-19T13:12:19.362406Z'
 publication_types:
 - article-journal
 publication: '*J Child Psychol Psychiatry*'
@@ -37,6 +37,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/29105061
-publication_types:
-          - '4'    
 ---

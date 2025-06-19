@@ -5,13 +5,13 @@ title: Long-term functional outcomes and correlation with regional brain connect
 authors:
 - M. Illa
 - E. Eixarch
-- D. Batalle
+- Dafnis Batalle
 - A. Arbat-Plana
 - E. Munoz-Moreno
 - F. Figueras
 - E. Gratacos
 date: '2013-01-01'
-publishDate: '2025-02-04T14:17:23.957838Z'
+publishDate: '2025-06-19T13:12:19.253939Z'
 publication_types:
 - article-journal
 publication: '*PLoS One*'
@@ -51,6 +51,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/24143189
-publication_types:
-          - '4'    
 ---

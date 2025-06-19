@@ -4,7 +4,7 @@ title: Language ability in preterm children is associated with arcuate fasciculi
 authors:
 - P. Salvan
 - J. D. Tournier
-- D. Batalle
+- Dafnis Batalle
 - S. Falconer
 - A. Chew
 - N. Kennea
@@ -14,7 +14,7 @@ authors:
 - A. D. Edwards
 - S. J. Counsell
 date: '2017-01-01'
-publishDate: '2025-02-04T14:17:24.068444Z'
+publishDate: '2025-06-19T13:12:19.352288Z'
 publication_types:
 - article-journal
 publication: '*Hum Brain Mapp*'
@@ -47,6 +47,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/28470961
-publication_types:
-          - '4'    
 ---

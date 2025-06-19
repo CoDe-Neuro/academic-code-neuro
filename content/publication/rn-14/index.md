@@ -28,7 +28,7 @@ authors:
 - A. D. Edwards
 - J. O'Muircheartaigh
 date: '2022-01-01'
-publishDate: '2025-02-04T14:17:24.384961Z'
+publishDate: '2025-06-19T13:12:19.651082Z'
 publication_types:
 - article-journal
 publication: '*Dev Cogn Neurosci*'
@@ -57,6 +57,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/35364447
-publication_types:
-        - '4'    
 ---

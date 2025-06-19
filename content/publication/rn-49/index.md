@@ -4,14 +4,14 @@ title: Structural Brain Network Reorganization and Social Cognition Related to A
 authors:
 - E. Munoz-Moreno
 - E. Fischi-Gomez
-- D. Batalle
+- Dafnis Batalle
 - C. Borradori-Tolsa
 - E. Eixarch
 - J. P. Thiran
 - E. Gratacos
 - P. S. Huppi
 date: '2016-01-01'
-publishDate: '2025-02-04T14:17:24.017231Z'
+publishDate: '2025-06-19T13:12:19.309174Z'
 publication_types:
 - article-journal
 publication: '*Front Neurosci*'
@@ -44,6 +44,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/28008304
-publication_types:
-          - '4'    
 ---

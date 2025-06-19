@@ -25,7 +25,7 @@ authors:
 - Dafnis Batalle
 - A. D. Edwards
 date: '2021-01-01'
-publishDate: '2025-02-04T14:17:24.267339Z'
+publishDate: '2025-06-19T13:12:19.534461Z'
 publication_types:
 - article-journal
 publication: '*Brain*'
@@ -68,7 +68,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/33734321
-
-publication_types:
-        - '4'    
 ---

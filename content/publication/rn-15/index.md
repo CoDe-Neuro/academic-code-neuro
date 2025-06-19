@@ -65,7 +65,7 @@ authors:
 - A. Schuh
 - S. Sotiropoulos
 - J. Steinweg
-- R. Teixeira
+- Rpag Teixeira
 - T. Tenev
 - J. D. Tournier
 - N. Tusor
@@ -76,7 +76,7 @@ authors:
 - J. Wurie
 - J. V. Hajnal
 date: '2022-01-01'
-publishDate: '2025-02-04T14:17:24.374295Z'
+publishDate: '2025-06-19T13:12:19.639338Z'
 publication_types:
 - article-journal
 publication: '*Front Neurosci*'
@@ -104,6 +104,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/35677357
-publication_types:
-        - '4'    
 ---

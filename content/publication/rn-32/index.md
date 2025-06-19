@@ -4,7 +4,7 @@ title: Emerging functional connectivity differences in newborn infants vulnerabl
 authors:
 - J. Ciarrusta
 - R. Dimitrova
-- D. Batalle
+- Dafnis Batalle
 - J. O'Muircheartaigh
 - L. Cordero-Grande
 - A. Price
@@ -19,7 +19,7 @@ authors:
 - T. Arichi
 - G. McAlonan
 date: '2020-01-01'
-publishDate: '2025-02-04T14:17:24.161256Z'
+publishDate: '2025-06-19T13:12:19.441928Z'
 publication_types:
 - article-journal
 publication: '*Transl Psychiatry*'
@@ -50,6 +50,4 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/32376820
-publication_types:
-        - '4'    
 ---
