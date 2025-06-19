@@ -19,8 +19,10 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
+- I am a psychiatrist and neuroscientist focused on understanding how antenatal and early life experiences influence brain development, and subsequent behaviour. My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist. My PhD focused on the relationship between socio-economic status, brain biology and early life outcomes.
+
 interests:
-- My undergraduate degree was in medicine at Imperial College London. Following this I worked as a general doctor and psychiatrist. My PhD focused on the relationship between socio-economic status, brain biology and early life outcomes.
+- I am a psychiatrist and neuroscientist focused on understanding how antenatal and early life experiences influence brain development, and subsequent behaviour.
 
 #education:
 # courses:
