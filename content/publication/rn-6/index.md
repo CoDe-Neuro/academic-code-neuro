@@ -19,7 +19,7 @@ authors:
 - D. G. M. Murphy
 - G. M. McAlonan
 date: '2023-01-01'
-publishDate: '2025-06-19T13:12:19.728727Z'
+publishDate: '2025-02-04T14:17:24.466277Z'
 publication_types:
 - article-journal
 publication: '*Transl Psychiatry*'
@@ -52,4 +52,6 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/37852957
+publication_types:
+        - '4'  
 ---

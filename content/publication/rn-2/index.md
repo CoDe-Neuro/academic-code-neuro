@@ -6,14 +6,14 @@ authors:
 - L. Vanes
 - V. Karolis
 - D. Kanel
-- M. Leoni
+- Marguerite Leoni
 - F. Happe
 - A. D. Edwards
 - S. J. Counsell
 - Dafnis Batalle
 - C. Nosarti
 date: '2024-01-01'
-publishDate: '2025-06-19T13:12:19.765271Z'
+publishDate: '2025-02-04T14:17:24.504733Z'
 publication_types:
 - article-journal
 publication: '*J Autism Dev Disord*'
@@ -41,4 +41,6 @@ tags:
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/36273367
+publication_types:
+      - '4'  
 ---
